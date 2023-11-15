@@ -1,4 +1,10 @@
-# Team 90 Emotional Granularity Game App
+# Emotional Granularity Game App
+
+## Authors
+- Yifei Wang - Project Owner 
+- Zach Klimas - Developer
+- James Fox - Scrum Master
+- Joshua Blue - Developer
 
 The project is to make a game based on a singular emotion, in order to aid in improving the emotional granularity in an autistic child. The game is to be embedded inside of a larger app positioned toward helping parents improve their autistic child's emotional regulation.
 
@@ -258,8 +264,4 @@ Changing Prompts: Edit QuestionData.js to update the questions and answers for t
 ```
 Updating Assets: Add new assets to the /assets folder and reference them in the respective level configuration files.
 
-## Authors
-- Yifei Wang - Project Owner 
-- Zach Klimas - Developer
-- James Fox - Scrum Master
-- Joshua Blue - Developer
+
